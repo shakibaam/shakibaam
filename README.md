@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Shakiba Amirshahi
 
 <!--
 **shakibaam/shakibaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a computer engineering student at _Amirkabir University of Technology,
+
+
+✔ I’m currently computer engineer at **AUT**<br>
+✔ I’m currently learning about **machine learning**🥰<br>
+✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ Ask from me anything you want 😉<br>
+✔ Fun fact : *I Always try to learn something new and I love reading novels and watching movies* 😎<br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakibaam&theme=tokyonight) <br><br>
+
+🤙 You can reach me by:<br>
+📧amirshahishakiba@gmail.com
