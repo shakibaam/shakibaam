@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 I'm a computer engineering student at _Amirkabir University of Technology,
 
 
-✔ I’m currently studying computer engineering at **AUT**<br>
-✔ I’m currently learning about **machine learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ I finished my CE bachelor's at Amirkabir University of Technology<br>
+✔ I’m currently learning about **AI**🥰<br>
 ✔ Ask from me anything you want 😉<br>
 ✔ Fun fact : *I Always try to learn something new and I love reading novels and watching movies* 😎<br><br>
 
