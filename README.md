@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a graduate student in Computer Science at University of Waterloo.
-✔ I’m currently working on **AI**🥰<br>
+
+
 ✔ Ask from me anything you want 😉<br>
 ✔ Fun fact : *I Always try to learn something new and I love reading novels and watching movies* 😎<br><br>
 
