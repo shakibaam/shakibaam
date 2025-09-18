@@ -1,26 +1,31 @@
-### Hi there 👋 I'm Shakiba Amirshahi
+# Hi there 👋 I'm Shakiba Amirshahi  
 
-<!--
-**shakibaam/shakibaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a **Master’s student in Computer Science at the University of Waterloo**, specializing in **AI, NLP, and Information Retrieval**.  
+💡 My research and projects often explore **large language models, misinformation detection, and retrieval-augmented generation (RAG)**.  
+🌱 Outside of academics, I enjoy learning new skills, reading novels, and watching movies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a graduate student in Computer Science at University of Waterloo.
+## 🔭 What I’m up to
+- Researching **health misinformation and robustness in RAG systems**  
+- Building and contributing to **open-source tools for claim detection and evaluation**  
 
+---
 
-✔ Ask from me anything you want 😉<br>
-✔ Fun fact : *I Always try to learn something new and I love reading novels and watching movies* 😎<br><br>
+## 🛠️ Tech & Tools I use
+- **Languages:** Python, Java, C, SQL, JavaScript  
+- **AI/ML:** PyTorch, TensorFlow, scikit-learn, HuggingFace, LLaMA, GPT, Claude  
+- **IR & Databases:** Elasticsearch, MongoDB, MySQL  
+- **Other:** Git, Docker, Kubernetes  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakibaam&theme=tokyonight) <br><br>
+---
 
-🤙 You can reach me by:<br>
-📧amirshahishakiba@gmail.com
+## 🤝 Let’s Connect
+📧 [amirshahishakiba@gmail.com](mailto:amirshahishakiba@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/shakiba-amirshahi/) 
+🌐 [Google Scholar] (https://scholar.google.com/citations?user=0ks-DQQAAAAJ&hl=en/) 
+
+---
+
+✨ *I’m always open to collaborations on research, open-source, or fun side projects!*  
+
